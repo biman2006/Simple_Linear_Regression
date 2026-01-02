@@ -10,8 +10,8 @@ y=m⋅x+b
 
 Slope (m) and intercept (b) are calculated using:
 
-m=sum{((X-X')(y-y'))/(X-X')^2}
-b=y'-m.X'
+# m=sum{((X-X')(y-y'))/(X-X')^2}
+# b=y'-m.X'
 
 ## How It Works
 
@@ -24,6 +24,6 @@ Predict y for given x
 Plot the regression line with data points
 
 
-Conclusion
+## Conclusion
 
 A simple, formula-based linear regression for 2D data, perfect for understanding the basics of regression and visualizing linear relationships.
